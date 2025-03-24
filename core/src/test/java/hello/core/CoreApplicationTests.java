@@ -8,6 +8,6 @@ class CoreApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
 
+	}
 }
